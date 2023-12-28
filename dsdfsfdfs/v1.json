@@ -38,9 +38,52 @@
             "currentEnvironmentId": "7aedaa9e-b2d8-43d1-9210-dc9254300b14",
             "promotedFrom": null,
             "createdAt": "2023-12-28T07:30:05.091Z",
-            "updatedAt": "2023-12-28T07:30:05.075Z"
+            "updatedAt": "2023-12-28T07:30:10.282Z"
           },
-          "components": [],
+          "components": [
+            {
+              "id": "d666a691-41f4-4cc5-b5ad-bd53d00ad1f5",
+              "name": "table1",
+              "type": "Table",
+              "pageId": "a1c233c0-b8a0-4081-b09a-110be6ef63a5",
+              "parent": null,
+              "properties": {},
+              "general": null,
+              "styles": {},
+              "generalStyles": null,
+              "displayPreferences": {
+                "showOnDesktop": {
+                  "value": "{{true}}"
+                },
+                "showOnMobile": {
+                  "value": "{{false}}"
+                }
+              },
+              "validation": {},
+              "createdAt": "2023-12-28T07:30:10.269Z",
+              "updatedAt": "2023-12-28T07:30:10.269Z",
+              "layouts": [
+                {
+                  "id": "afc49781-485e-4948-a9bd-869be2e6b43b",
+                  "type": "desktop",
+                  "top": 50,
+                  "left": 39.53488372093023,
+                  "width": 28.86,
+                  "height": 456,
+                  "componentId": "d666a691-41f4-4cc5-b5ad-bd53d00ad1f5"
+                },
+                {
+                  "id": "61958c41-0013-4006-8502-bcc2f4b2d9dd",
+                  "type": "mobile",
+                  "top": 50,
+                  "left": 39.53488372093023,
+                  "width": 28.86,
+                  "height": 456,
+                  "componentId": "d666a691-41f4-4cc5-b5ad-bd53d00ad1f5"
+                }
+              ]
+            }
+          ],
           "pages": [
             {
               "id": "a1c233c0-b8a0-4081-b09a-110be6ef63a5",
@@ -77,7 +120,7 @@
               "currentEnvironmentId": "7aedaa9e-b2d8-43d1-9210-dc9254300b14",
               "promotedFrom": null,
               "createdAt": "2023-12-28T07:30:05.091Z",
-              "updatedAt": "2023-12-28T07:30:05.075Z"
+              "updatedAt": "2023-12-28T07:30:10.282Z"
             }
           ],
           "appEnvironments": [
