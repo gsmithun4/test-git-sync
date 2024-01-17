@@ -38,9 +38,52 @@
             "currentEnvironmentId": "f75f6547-8b8b-4cbf-bbed-5209879022bf",
             "promotedFrom": null,
             "createdAt": "2024-01-17T09:07:11.008Z",
-            "updatedAt": "2024-01-17T03:37:10.990Z"
+            "updatedAt": "2024-01-17T09:07:18.080Z"
           },
-          "components": [],
+          "components": [
+            {
+              "id": "b4be2e9d-757d-456c-a6ce-a53f94a2dcad",
+              "name": "table1",
+              "type": "Table",
+              "pageId": "5d3209e2-66c4-4a06-a8ef-0eb1367d6dea",
+              "parent": null,
+              "properties": {},
+              "general": null,
+              "styles": {},
+              "generalStyles": null,
+              "displayPreferences": {
+                "showOnDesktop": {
+                  "value": "{{true}}"
+                },
+                "showOnMobile": {
+                  "value": "{{false}}"
+                }
+              },
+              "validation": {},
+              "createdAt": "2024-01-17T03:37:18.062Z",
+              "updatedAt": "2024-01-17T03:37:18.062Z",
+              "layouts": [
+                {
+                  "id": "ff19575e-88b1-4056-89a1-363c64c3dba2",
+                  "type": "desktop",
+                  "top": 150,
+                  "left": 27.906976744186046,
+                  "width": 28.86,
+                  "height": 456,
+                  "componentId": "b4be2e9d-757d-456c-a6ce-a53f94a2dcad"
+                },
+                {
+                  "id": "34f1f623-37da-4762-b683-d109f08ff7c9",
+                  "type": "mobile",
+                  "top": 150,
+                  "left": 27.906976744186046,
+                  "width": 28.86,
+                  "height": 456,
+                  "componentId": "b4be2e9d-757d-456c-a6ce-a53f94a2dcad"
+                }
+              ]
+            }
+          ],
           "pages": [
             {
               "id": "5d3209e2-66c4-4a06-a8ef-0eb1367d6dea",
@@ -77,7 +120,7 @@
               "currentEnvironmentId": "f75f6547-8b8b-4cbf-bbed-5209879022bf",
               "promotedFrom": null,
               "createdAt": "2024-01-17T09:07:11.008Z",
-              "updatedAt": "2024-01-17T03:37:10.990Z"
+              "updatedAt": "2024-01-17T09:07:18.080Z"
             }
           ],
           "appEnvironments": [
